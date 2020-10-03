@@ -28,5 +28,15 @@
 		"desc": "A predominant example of an Ivy script",
 		"author": "Darren Liew",
 		"private": 0
+	},
+	{
+		"id": "86FF32D7-835F-47EA-94E4-199CCC5EC75F",
+		"bgcolor": "#fff",
+		"color": "#000",
+		"icon": "icon.png",
+		"name": "Tagline",
+		"desc": "Tag line",
+		"author": "Darren Liew",
+		"private": 0
 	}
 ]
